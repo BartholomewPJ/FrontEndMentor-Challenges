@@ -265,7 +265,7 @@ a:hover,
         height: 640px;
         background-image: url("assets/image-hero-tablet.png");
         /* background-position: center; */
-        transform: translate(10%, -30%);
+        transform: translate(0%, -30%);
 
     }
 

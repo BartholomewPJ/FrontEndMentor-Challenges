@@ -155,7 +155,7 @@ h6 {
     width: 350px;
     height: 350px;
     align-self: center;
-    background-image: url("/assets/image-hero-mobile.png");
+    background-image: url("assets/image-hero-mobile.png");
     background-size: cover;
     /* background-position: center; */
     /* border: 1px solid brown; */
@@ -263,7 +263,7 @@ a:hover,
     .hero-image-wrapper {
         width: 640px;
         height: 640px;
-        background-image: url("/assets/image-hero-tablet.png");
+        background-image: url("assets/image-hero-tablet.png");
         /* background-position: center; */
         transform: translate(10%, -30%);
 
@@ -293,7 +293,7 @@ a:hover,
         width: 990px;
         min-width: 50vw;
         /* height: 990px; */
-        background-image: url("/assets/image-hero-desktop.png");
+        background-image: url("assets/image-hero-desktop.png");
         background-size: cover;
         /* background-position: 0%; */
         /* border: 1px solid red; */
